@@ -1,0 +1,110 @@
+/*#df147f;#00c091;*/
+body {
+  margin: 0;
+  border: 0;
+  /*background: #ccc;*/
+  padding: 5px;
+  color: #1aa3d5;
+  font-family: '微软雅黑';
+}
+.float-right {
+  float: right;
+}
+a {
+  color: #1aa3d5;
+  text-decoration: none;
+}
+p {
+  margin-left: 20px;
+  line-height: 5px;
+  margin-bottom: 30px;
+}
+.clear {
+  clear: both;
+}
+.centext > hr {
+  border: 1px solid #efefef;
+  margin: 20px 5px;
+  clear: both;
+}
+.iconfont {
+  margin: 0px 5px;
+}
+.float-left {
+  float: left;
+}
+.centext {
+  width: 960px;
+  padding: 5px;
+  margin: 0px auto;
+  border: 1px solid #efefef;
+  min-height: 1318px;
+  background: #fff;
+}
+.header {
+  height: 100px;
+  background: #1aa3d5;
+  line-height: 120px;
+  color: #fff;
+  text-align: left;
+}
+.header > div {
+  height: 90px;
+  line-height: 100px;
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+.header hr {
+  border: 5px solid #1aa3d5;
+}
+.contact {
+  height: 60px;
+  margin-top: 15px;
+  line-height: 80px;
+  font-size: 16px;
+}
+.contact span {
+  margin-right: 10px;
+}
+.contact span i {
+  font-size: 16px;
+}
+.table {
+  clear: both;
+}
+.table > .title {
+  margin-left: 20px;
+  width: 100px;
+  height: 100%;
+  background: #1aa3d5;
+  height: 35px;
+  color: #fff;
+  font-size: 18px;
+  line-height: 35px;
+  text-align: center;
+}
+.table > .content {
+  margin-bottom: 10px;
+  width: 750px;
+}
+.table > .content > .line {
+  margin-bottom: 15px;
+}
+.table > .content > .line > div > span {
+  width: 35%;
+  height: 35px;
+  line-height: 35px;
+  display: block;
+  float: left;
+}
+.table > .content > .line > div > span:nth-child(1) {
+  width: 25%;
+  margin-left: 20px;
+}
+.content > .line > .detailed {
+  clear: both;
+  line-height: 20px;
+  color: #757575;
+  margin-left: 20px;
+  font-size: 15px;
+}
